@@ -1,0 +1,23 @@
+{
+  "name": "react-ro",
+  "version": "1.0.0",
+  "description": "this is my react course",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan197770/react-course.git"
+  },
+  "keywords": [
+    "Rohan",
+    "Anand"
+  ],
+  "author": "Rohan Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohan197770/react-course/issues"
+  },
+  "homepage": "https://github.com/Rohan197770/react-course#readme"
+}
